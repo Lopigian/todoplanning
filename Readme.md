@@ -32,7 +32,7 @@ To set up the project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/your-project.git
+   git clone https://github.com/Lopigian/todoplanning.git
    cd your-project
    
 2. **Install Dependencies:**
